@@ -87,3 +87,4 @@ if __name__ == "__main__":
                 remove_from_left(data), 
                 remove_from_both_sides(data))
     print(min_diff)
+
